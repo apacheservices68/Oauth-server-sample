@@ -52,4 +52,6 @@ $app->singleton(
 |
 */
 
+require __DIR__."/environment.php";
+
 return $app;
